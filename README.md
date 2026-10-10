@@ -75,8 +75,3 @@ Two things to check before publishing:
 - With only 334 patients, results have high variance; consider repeated/cross-validated runs.
 - This is a research prototype and **not a medical device**.
 - Obtain ECHD v2 from its original source and respect its license.
-
-## License
-
-
-MIT
