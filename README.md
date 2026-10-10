@@ -56,6 +56,5 @@ Options: `--epochs`, `--batch-size`, `--lr`, `--img-size`, `--pretrained`, `--se
 
 ## License
 
-MIT
 
 MIT
